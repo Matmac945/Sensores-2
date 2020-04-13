@@ -1,6 +1,6 @@
 # Sensores 2
 
-Proyectos realizados para la clase de sensores 2de la carrera de Ingenieria de diseño en entretenimiento digita.
+Proyectos realizados para la clase de sensores 2 en Ingenieria de diseño en entretenimiento digita.
 
 ---
 ## Contribuidores
