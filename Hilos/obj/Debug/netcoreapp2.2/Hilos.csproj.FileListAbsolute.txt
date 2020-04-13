@@ -1,0 +1,11 @@
+/Users/matiasmacias/Desktop/Sensores2/Hilos/obj/Debug/netcoreapp2.2/Hilos.csprojAssemblyReference.cache
+/Users/matiasmacias/Desktop/Sensores2/Hilos/obj/Debug/netcoreapp2.2/Hilos.csproj.CoreCompileInputs.cache
+/Users/matiasmacias/Desktop/Sensores2/Hilos/obj/Debug/netcoreapp2.2/Hilos.AssemblyInfoInputs.cache
+/Users/matiasmacias/Desktop/Sensores2/Hilos/obj/Debug/netcoreapp2.2/Hilos.AssemblyInfo.cs
+/Users/matiasmacias/Desktop/Sensores2/Hilos/bin/Debug/netcoreapp2.2/Hilos.deps.json
+/Users/matiasmacias/Desktop/Sensores2/Hilos/bin/Debug/netcoreapp2.2/Hilos.runtimeconfig.json
+/Users/matiasmacias/Desktop/Sensores2/Hilos/bin/Debug/netcoreapp2.2/Hilos.runtimeconfig.dev.json
+/Users/matiasmacias/Desktop/Sensores2/Hilos/bin/Debug/netcoreapp2.2/Hilos.dll
+/Users/matiasmacias/Desktop/Sensores2/Hilos/bin/Debug/netcoreapp2.2/Hilos.pdb
+/Users/matiasmacias/Desktop/Sensores2/Hilos/obj/Debug/netcoreapp2.2/Hilos.dll
+/Users/matiasmacias/Desktop/Sensores2/Hilos/obj/Debug/netcoreapp2.2/Hilos.pdb
